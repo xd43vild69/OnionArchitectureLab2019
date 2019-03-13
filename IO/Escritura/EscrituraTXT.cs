@@ -23,7 +23,7 @@ namespace EntradaSalida
                 {
                     file.WriteLine(animal.Nombre);
                 }
-                System.Console.WriteLine($"Se crea un archivo ${archivo.Nombre} en :{archivo.Ruta}.");
+                System.Console.WriteLine($"Se crea un archivo ${nombre} en :{archivo.Ruta}.");
             }
         }
     }
