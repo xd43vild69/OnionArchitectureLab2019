@@ -1,0 +1,14 @@
+D:\XpertGroup\Negocio\Negocio\bin\Debug\Negocio.dll
+D:\XpertGroup\Negocio\Negocio\bin\Debug\Negocio.pdb
+D:\XpertGroup\Negocio\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\XpertGroup\Negocio\Negocio\obj\Debug\Negocio.dll
+D:\XpertGroup\Negocio\Negocio\obj\Debug\Negocio.pdb
+C:\1.Source\test\xpertGroup\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\1.Source\test\xpertGroup\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\1.Source\test\xpertGroup\Negocio\obj\Debug\Negocio.dll
+C:\1.Source\test\xpertGroup\Negocio\obj\Debug\Negocio.pdb
+C:\1.Source\test\xpertGroup\Negocio\bin\Debug\Negocio.dll
+C:\1.Source\test\xpertGroup\Negocio\bin\Debug\Negocio.pdb
+C:\1.Source\test\xpertGroup\Negocio\bin\Debug\Entidades.dll
+C:\1.Source\test\xpertGroup\Negocio\bin\Debug\Entidades.pdb
+C:\1.Source\test\xpertGroup\Negocio\obj\Debug\Negocio.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\1.Source\test\xpertGroup\Entidades\bin\Debug\Entidades.dll
+C:\1.Source\test\xpertGroup\Entidades\bin\Debug\Entidades.pdb
+C:\1.Source\test\xpertGroup\Entidades\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\1.Source\test\xpertGroup\Entidades\obj\Debug\Entidades.dll
+C:\1.Source\test\xpertGroup\Entidades\obj\Debug\Entidades.pdb
+D:\Dev\test2\xpertGroup\Entidades\bin\Debug\Entidades.dll
+D:\Dev\test2\xpertGroup\Entidades\bin\Debug\Entidades.pdb
+D:\Dev\test2\xpertGroup\Entidades\obj\Debug\Entidades.dll
+D:\Dev\test2\xpertGroup\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,5 @@
+C:\1.Source\test\xpertGroup\IO\bin\Debug\IO.dll
+C:\1.Source\test\xpertGroup\IO\bin\Debug\IO.pdb
+C:\1.Source\test\xpertGroup\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\1.Source\test\xpertGroup\IO\obj\Debug\IO.dll
+C:\1.Source\test\xpertGroup\IO\obj\Debug\IO.pdb

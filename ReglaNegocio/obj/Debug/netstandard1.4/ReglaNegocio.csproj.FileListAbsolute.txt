@@ -1,0 +1,7 @@
+D:\XpertGroup\Negocio\ReglaNegocio\bin\Debug\netstandard1.4\ReglaNegocio.deps.json
+D:\XpertGroup\Negocio\ReglaNegocio\bin\Debug\netstandard1.4\ReglaNegocio.dll
+D:\XpertGroup\Negocio\ReglaNegocio\bin\Debug\netstandard1.4\ReglaNegocio.pdb
+D:\XpertGroup\Negocio\ReglaNegocio\obj\Debug\netstandard1.4\ReglaNegocio.csprojResolveAssemblyReference.cache
+D:\XpertGroup\Negocio\ReglaNegocio\obj\Debug\netstandard1.4\ReglaNegocio.AssemblyInfo.cs
+D:\XpertGroup\Negocio\ReglaNegocio\obj\Debug\netstandard1.4\ReglaNegocio.dll
+D:\XpertGroup\Negocio\ReglaNegocio\obj\Debug\netstandard1.4\ReglaNegocio.pdb

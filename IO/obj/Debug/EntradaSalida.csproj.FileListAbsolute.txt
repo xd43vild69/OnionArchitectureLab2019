@@ -1,0 +1,16 @@
+C:\1.Source\test\xpertGroup\IO\bin\Debug\IO.dll
+C:\1.Source\test\xpertGroup\IO\bin\Debug\IO.pdb
+C:\1.Source\test\xpertGroup\IO\bin\Debug\Entidades.dll
+C:\1.Source\test\xpertGroup\IO\bin\Debug\Entidades.pdb
+C:\1.Source\test\xpertGroup\IO\obj\Debug\EntradaSalida.csprojAssemblyReference.cache
+C:\1.Source\test\xpertGroup\IO\obj\Debug\EntradaSalida.csproj.CoreCompileInputs.cache
+C:\1.Source\test\xpertGroup\IO\obj\Debug\EntradaSalida.csproj.CopyComplete
+C:\1.Source\test\xpertGroup\IO\obj\Debug\IO.dll
+C:\1.Source\test\xpertGroup\IO\obj\Debug\IO.pdb
+D:\Dev\test2\xpertGroup\IO\bin\Debug\IO.dll
+D:\Dev\test2\xpertGroup\IO\bin\Debug\IO.pdb
+D:\Dev\test2\xpertGroup\IO\bin\Debug\Entidades.dll
+D:\Dev\test2\xpertGroup\IO\bin\Debug\Entidades.pdb
+D:\Dev\test2\xpertGroup\IO\obj\Debug\EntradaSalida.csprojResolveAssemblyReference.cache
+D:\Dev\test2\xpertGroup\IO\obj\Debug\IO.dll
+D:\Dev\test2\xpertGroup\IO\obj\Debug\IO.pdb
