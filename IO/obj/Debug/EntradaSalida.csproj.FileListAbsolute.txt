@@ -14,3 +14,12 @@ D:\Dev\test2\xpertGroup\IO\bin\Debug\Entidades.pdb
 D:\Dev\test2\xpertGroup\IO\obj\Debug\EntradaSalida.csprojResolveAssemblyReference.cache
 D:\Dev\test2\xpertGroup\IO\obj\Debug\IO.dll
 D:\Dev\test2\xpertGroup\IO\obj\Debug\IO.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\bin\Debug\IO.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\bin\Debug\IO.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\bin\Debug\Entidades.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\bin\Debug\Entidades.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\obj\Debug\EntradaSalida.csprojAssemblyReference.cache
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\obj\Debug\EntradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\obj\Debug\EntradaSalida.csproj.CopyComplete
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\obj\Debug\IO.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\IO\obj\Debug\IO.pdb

@@ -14,7 +14,7 @@ namespace PruebasUnitarias
     [TestClass]
     public class ClasificacionPrueba
     {
-        private const string RUTA = @"D:\test\";
+        private const string RUTA = @"D:\test2\";
         private const string NOMBRE = "EQUNOSBOVINOS.DAT";
 
         [TestMethod]

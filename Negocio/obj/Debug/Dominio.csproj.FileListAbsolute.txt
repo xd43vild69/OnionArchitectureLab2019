@@ -14,3 +14,12 @@ D:\Dev\test2\xpertGroup\Negocio\bin\Debug\Entidades.pdb
 D:\Dev\test2\xpertGroup\Negocio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
 D:\Dev\test2\xpertGroup\Negocio\obj\Debug\Negocio.dll
 D:\Dev\test2\xpertGroup\Negocio\obj\Debug\Negocio.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\bin\Debug\Negocio.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\bin\Debug\Negocio.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\bin\Debug\Entidades.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\bin\Debug\Entidades.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\obj\Debug\Negocio.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Negocio\obj\Debug\Negocio.pdb

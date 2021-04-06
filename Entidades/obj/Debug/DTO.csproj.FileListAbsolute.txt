@@ -7,3 +7,9 @@ D:\Dev\test2\xpertGroup\Entidades\bin\Debug\Entidades.dll
 D:\Dev\test2\xpertGroup\Entidades\bin\Debug\Entidades.pdb
 D:\Dev\test2\xpertGroup\Entidades\obj\Debug\Entidades.dll
 D:\Dev\test2\xpertGroup\Entidades\obj\Debug\Entidades.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Entidades\bin\Debug\Entidades.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Entidades\bin\Debug\Entidades.pdb
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Entidades\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Entidades\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Entidades\obj\Debug\Entidades.dll
+C:\Users\d13-intel\Source\Repos\xd43vild69\OnionArchitectureLab2019\Entidades\obj\Debug\Entidades.pdb
